@@ -1,0 +1,36 @@
+﻿@{
+    Layout = null; 
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <title>Admin Girişi</title>
+</head>
+<body>
+    <div class="container" style="margin-top:25px;">
+        <div class="row">
+            <div class="col-md-2"></div>
+
+            <div class="col-md-8">
+                <form method="post" action="/admin/Login">
+                    <input  type="text" class="form-control" name="Email" style="margin-bottom:15px;" placeholder="Email Adresi :"/>
+
+                    <input type="password" class="form-control" name="Sifre" style="margin-bottom:15px;" placeholder="Şifre Giriniz :" />
+                
+                    <button type="submit" class="btn btn-primary">Giriş Yap</button>
+                </form>
+                @if (ViewBag.Mesaj != null)
+                {
+                    <div class="alert alert-error">@ViewBag.Mesaj</div>
+                }
+            </div>
+
+            <div class="col-md-2"></div>
+        </div>
+    </div>
+
+
+
+</body>
+</html>

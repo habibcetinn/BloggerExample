@@ -1,4 +1,6 @@
-﻿<section id="featured">
+﻿@model Tuple<List<Blogger.Models.Blogs>, List<Blogger.Models.Projects>>
+
+<section id="featured">
 
     <!-- slideshow start here -->
 
@@ -110,17 +112,21 @@
                 <div class="blankline30"></div>
 
                 <ul class="bxslider">
-                    <li>
-                        <blockquote>
-                            Aliquam a orci quis nisi sagittis sagittis. Etiam adipiscing, justo quis feugiat.Suspendisse eu erat quam. Vivamus porttitor eros quis nisi lacinia sed interdum lorem vulputate. Aliquam a orci quis nisi sagittis sagittis. Etiam adipiscing, justo quis
-                            feugiat
-                        </blockquote>
-                        <div class="testimonial-autor">
-                            <img src="/img/dummies/testimonial/1.png" alt="" />
-                            <h4>Hillary Doe</h4>
-                            <a href="#">www.companyname.com</a>
-                        </div>
-                    </li>
+                    @foreach (var item in Model.Item1)
+                    {
+                        <li>
+                            <blockquote>
+                                @if (item.Explanation.Length < 250)
+                                {
+                                    @Html.Raw(item.Explanation)
+                                }
+                                else
+                                {
+                                    @Html.Raw(item.Explanation.Substring(0,250))
+                                }
+                            </blockquote>
+                        </li>
+                    }
                 </ul>
 
             </div>
@@ -137,25 +143,29 @@
                 <h4 class="title">Recent <strong>Works</strong></h4>
                 <div class="row">
 
-                    <div class="grid cs-style-4">
-                        <div class="span3">
-                            <div class="item">
-                                <figure>
-                                    <div><img src="/img/dummies/works/1.jpg" alt="" /></div>
-                                    <figcaption>
-                                        <div>
-                                            <span>
-                                                <a href="/img/dummies/works/big.png" data-pretty="prettyPhoto[gallery1]" title="Portfolio caption here"><i class="icon-plus icon-circled icon-bglight icon-2x"></i></a>
-                                            </span>
-                                            <span>
-                                                <a href="#"><i class="icon-file icon-circled icon-bglight icon-2x"></i></a>
-                                            </span>
-                                        </div>
-                                    </figcaption>
-                                </figure>
+                    @foreach (var item in Model.Item2)
+                    {
+
+                        <div class="grid cs-style-4">
+                            <div class="span3">
+                                <div class="item">
+                                    <figure>
+                                        <div><img src="/images/@item.Images" alt="" /></div>
+                                        <figcaption>
+                                            <div>
+                                                <span>
+                                                    <a href="/img/dummies/works/big.png" data-pretty="prettyPhoto[gallery1]" title="Portfolio caption here"><i class="icon-plus icon-circled icon-bglight icon-2x"></i></a>
+                                                </span>
+                                                <span>
+                                                    <a href="#"><i class="icon-file icon-circled icon-bglight icon-2x"></i></a>
+                                                </span>
+                                            </div>
+                                        </figcaption>
+                                    </figure>
+                                </div>
                             </div>
                         </div>
-                    </div>
+                    }
 
                 </div>
             </div>

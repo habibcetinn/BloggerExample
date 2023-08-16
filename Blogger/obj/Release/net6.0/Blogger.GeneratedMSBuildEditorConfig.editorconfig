@@ -9,93 +9,101 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Blogger
 build_property.RootNamespace = Blogger
-build_property.ProjectDir = C:\Users\ARIBILGI\source\repos\habibcetinn\BloggerExample\Blogger\
+build_property.ProjectDir = C:\Users\ARIBILGI\Source\Repos\habibcetinn\BloggerExample\Blogger\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\ARIBILGI\source\repos\habibcetinn\BloggerExample\Blogger
+build_property.MSBuildProjectDirectory = C:\Users\ARIBILGI\Source\Repos\habibcetinn\BloggerExample\Blogger
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/ARIBILGI/source/repos/habibcetinn/BloggerExample/Blogger/Areas/admin/Views/Begeniler/Index.cshtml]
+[C:/Users/ARIBILGI/Source/Repos/habibcetinn/BloggerExample/Blogger/Areas/admin/Views/Begeniler/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcQmVnZW5pbGVyXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ARIBILGI/source/repos/habibcetinn/BloggerExample/Blogger/Areas/admin/Views/Bloglarim/Index.cshtml]
+[C:/Users/ARIBILGI/Source/Repos/habibcetinn/BloggerExample/Blogger/Areas/admin/Views/Bloglarim/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcQmxvZ2xhcmltXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ARIBILGI/source/repos/habibcetinn/BloggerExample/Blogger/Areas/admin/Views/Bloglarim/Insert.cshtml]
+[C:/Users/ARIBILGI/Source/Repos/habibcetinn/BloggerExample/Blogger/Areas/admin/Views/Bloglarim/Insert.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcQmxvZ2xhcmltXEluc2VydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ARIBILGI/source/repos/habibcetinn/BloggerExample/Blogger/Areas/admin/Views/Bloglarim/update.cshtml]
+[C:/Users/ARIBILGI/Source/Repos/habibcetinn/BloggerExample/Blogger/Areas/admin/Views/Bloglarim/update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcQmxvZ2xhcmltXHVwZGF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ARIBILGI/source/repos/habibcetinn/BloggerExample/Blogger/Areas/admin/Views/Proje/Index.cshtml]
+[C:/Users/ARIBILGI/Source/Repos/habibcetinn/BloggerExample/Blogger/Areas/admin/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcTG9naW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARIBILGI/Source/Repos/habibcetinn/BloggerExample/Blogger/Areas/admin/Views/Proje/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcUHJvamVcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ARIBILGI/source/repos/habibcetinn/BloggerExample/Blogger/Areas/admin/Views/Proje/Insert.cshtml]
+[C:/Users/ARIBILGI/Source/Repos/habibcetinn/BloggerExample/Blogger/Areas/admin/Views/Proje/Insert.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcUHJvamVcSW5zZXJ0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ARIBILGI/source/repos/habibcetinn/BloggerExample/Blogger/Areas/admin/Views/Proje/Update.cshtml]
+[C:/Users/ARIBILGI/Source/Repos/habibcetinn/BloggerExample/Blogger/Areas/admin/Views/Proje/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcUHJvamVcVXBkYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ARIBILGI/source/repos/habibcetinn/BloggerExample/Blogger/Areas/admin/Views/Sayfalarim/Index.cshtml]
+[C:/Users/ARIBILGI/Source/Repos/habibcetinn/BloggerExample/Blogger/Areas/admin/Views/Sayfalarim/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcU2F5ZmFsYXJpbVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ARIBILGI/source/repos/habibcetinn/BloggerExample/Blogger/Areas/admin/Views/Sayfalarim/Insert.cshtml]
+[C:/Users/ARIBILGI/Source/Repos/habibcetinn/BloggerExample/Blogger/Areas/admin/Views/Sayfalarim/Insert.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcU2F5ZmFsYXJpbVxJbnNlcnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ARIBILGI/source/repos/habibcetinn/BloggerExample/Blogger/Areas/admin/Views/Sayfalarim/Update.cshtml]
+[C:/Users/ARIBILGI/Source/Repos/habibcetinn/BloggerExample/Blogger/Areas/admin/Views/Sayfalarim/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcU2F5ZmFsYXJpbVxVcGRhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ARIBILGI/source/repos/habibcetinn/BloggerExample/Blogger/Areas/admin/Views/Shared/_Layoutadmin.cshtml]
+[C:/Users/ARIBILGI/Source/Repos/habibcetinn/BloggerExample/Blogger/Areas/admin/Views/Shared/_Layoutadmin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXRhZG1pbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ARIBILGI/source/repos/habibcetinn/BloggerExample/Blogger/Areas/admin/Views/Yorumlar/Index.cshtml]
+[C:/Users/ARIBILGI/Source/Repos/habibcetinn/BloggerExample/Blogger/Areas/admin/Views/YetkiYok/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcWWV0a2lZb2tcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARIBILGI/Source/Repos/habibcetinn/BloggerExample/Blogger/Areas/admin/Views/Yorumlar/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcWW9ydW1sYXJcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ARIBILGI/source/repos/habibcetinn/BloggerExample/Blogger/Areas/admin/Views/_ViewStart.cshtml]
+[C:/Users/ARIBILGI/Source/Repos/habibcetinn/BloggerExample/Blogger/Areas/admin/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ARIBILGI/source/repos/habibcetinn/BloggerExample/Blogger/Pages/Shared/Components/Menuler/Default.cshtml]
+[C:/Users/ARIBILGI/Source/Repos/habibcetinn/BloggerExample/Blogger/Pages/Shared/Components/Menuler/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXENvbXBvbmVudHNcTWVudWxlclxEZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ARIBILGI/source/repos/habibcetinn/BloggerExample/Blogger/Views/Bloglar/Index.cshtml]
+[C:/Users/ARIBILGI/Source/Repos/habibcetinn/BloggerExample/Blogger/Views/Bloglar/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ2xhclxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ARIBILGI/source/repos/habibcetinn/BloggerExample/Blogger/Views/Hakkimda/Index.cshtml]
+[C:/Users/ARIBILGI/Source/Repos/habibcetinn/BloggerExample/Blogger/Views/Hakkimda/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFra2ltZGFcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ARIBILGI/source/repos/habibcetinn/BloggerExample/Blogger/Views/Home/Index.cshtml]
+[C:/Users/ARIBILGI/Source/Repos/habibcetinn/BloggerExample/Blogger/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ARIBILGI/source/repos/habibcetinn/BloggerExample/Blogger/Views/iletisim/Index.cshtml]
+[C:/Users/ARIBILGI/Source/Repos/habibcetinn/BloggerExample/Blogger/Views/iletisim/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcaWxldGlzaW1cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ARIBILGI/source/repos/habibcetinn/BloggerExample/Blogger/Views/projects/Index.cshtml]
+[C:/Users/ARIBILGI/Source/Repos/habibcetinn/BloggerExample/Blogger/Views/projects/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NccHJvamVjdHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ARIBILGI/source/repos/habibcetinn/BloggerExample/Blogger/Views/_Shared/_Layout.cshtml]
+[C:/Users/ARIBILGI/Source/Repos/habibcetinn/BloggerExample/Blogger/Views/_Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1NoYXJlZFxfTGF5b3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ARIBILGI/source/repos/habibcetinn/BloggerExample/Blogger/Views/_ViewStart.cshtml]
+[C:/Users/ARIBILGI/Source/Repos/habibcetinn/BloggerExample/Blogger/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

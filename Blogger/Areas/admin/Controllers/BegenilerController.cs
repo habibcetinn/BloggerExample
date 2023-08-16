@@ -1,9 +1,10 @@
 ﻿using Blogger.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Blogger.Areas.admin.Controllers
 {
-    [Area("admin")]
+    [Area("admin"),Authorize]
     public class BegenilerController : Controller
     {
         private DatabaseContext db;

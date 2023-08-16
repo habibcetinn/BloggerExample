@@ -1,10 +1,11 @@
 ﻿using Blogger.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System.IO;
 
 namespace Blogger.Areas.admin.Controllers
 {
-    [Area("admin")]
+    [Area("admin"), Authorize(Roles ="Muhasebe,Call Center")]
     public class BloglarimController : Controller
     {
         private DatabaseContext db;
