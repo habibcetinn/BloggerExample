@@ -8,7 +8,7 @@ namespace Blogger.Controllers
     {
         private DatabaseContext db;
         public HakkimdaController(DatabaseContext db) {
-            // Melih
+            // Melihwqeqeq
             this.db = db;
         }
         [Route("/Sayfa/{id}")]
