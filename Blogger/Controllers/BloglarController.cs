@@ -9,7 +9,7 @@ namespace Blogger.Controllers
 
         public BloglarController(DatabaseContext db)
         {
-            this.db = db;
+            this.db = db;//
         }
 
         public IActionResult Index()
